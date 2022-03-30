@@ -1,0 +1,433 @@
+#0
+GIGABYTE GeForce GTX 1660 SUPER Gaming OC
+GeForce GTX 1660 SUPER
+1530
+6
+GDDR6
+14000
+8
+180
+450
+21499
+*********************************
+0
+
+#1
+MSI AMD Radeon RX 580 ARMOR OC
+Radeon RX 580
+1257
+8
+GDDR5
+8000
+8
+185
+500
+13999
+*********************************
+1
+
+#2
+MSI GeForce GT 710 Silent LP
+GeForce GT 710
+954
+2
+GDDR3
+1600
+0
+19
+300
+3399
+*********************************
+2
+
+#3
+MSI AMD Radeon RX 570 ARMOR OC
+Radeon RX 570
+1168
+8
+GDDR5
+7000
+8
+150
+450
+12999
+*********************************
+3
+
+#4
+Palit GeForce GTX 1660 SUPER Gaming Pro
+GeForce GTX 1660 SUPER
+1530
+6
+GDDR6
+14000
+8
+125
+450
+19299
+*********************************
+4
+
+#5
+MSI AMD Radeon RX 570 ARMOR OC
+Radeon RX 570
+1168
+4
+GDDR5
+7000
+8
+120
+450
+10999
+*********************************
+5
+
+#6
+MSI GeForce GTX 1650 SUPER VENTUS XS OC
+GeForce GTX 1650 SUPER
+1530
+4
+GDDR6
+12000
+6
+100
+350
+14999
+*********************************
+6
+
+#7
+KFA2 GeForce GTX 1050 Ti 1-Click OC
+GeForce GTX 1050 Ti
+1290
+4
+GDDR5
+7008
+0
+75
+300
+10999
+*********************************
+7
+
+#8
+MSI GeForce GTX 1660 SUPER Gaming X
+GeForce GTX 1660 SUPER
+1530
+6
+GDDR6
+14000
+8
+125
+450
+22999
+*********************************
+8
+
+#9
+Palit GeForce GTX 1660 SUPER Gaming Pro OC
+GeForce GTX 1660 SUPER
+1530
+6
+GDDR6
+14000
+8
+125
+450
+19999
+*********************************
+9
+
+#10
+MSI GeForce GTX 1660 VENTUS XS 6G OCV1
+GeForce GTX 1660
+1530
+6
+GDDR5
+8000
+6
+130
+450
+17799
+*********************************
+10
+
+#11
+KFA2 GeForce GTX 1650 Super EX (1-Click OC)
+GeForce GTX 1650 SUPER
+1530
+4
+GDDR6
+12000
+6
+100
+350
+14499
+*********************************
+11
+
+#12
+MSI GeForce GTX 1660 SUPER VENTUS XS OCV1
+GeForce GTX 1660 SUPER
+1530
+6
+GDDR6
+14000
+8
+125
+450
+20499
+*********************************
+12
+
+#13
+MSI GeForce GTX 1650 VENTUS XS OC
+GeForce GTX 1650
+1485
+4
+GDDR5
+8000
+0
+75
+300
+12499
+*********************************
+13
+
+#14
+Palit GeForce RTX 2060 Gaming Pro
+GeForce RTX 2060
+1365
+6
+GDDR6
+14000
+8
+160
+500
+26999
+*********************************
+14
+
+#15
+KFA2 GeForce GTX 1650 EX
+GeForce GTX 1650
+1485
+4
+GDDR5
+8000
+0
+75
+300
+11999
+*********************************
+15
+
+#16
+Sapphire AMD Radeon RX 570 PULSE
+Radeon RX 570
+1168
+8
+GDDR5
+7000
+8
+150
+500
+13999
+*********************************
+16
+
+#17
+KFA2 GeForce GTX 1660 SUPER 1-click OC
+GeForce GTX 1660 SUPER
+1530
+6
+GDDR6
+14000
+8
+125
+450
+18999
+*********************************
+17
+
+#18
+MSI GeForce GTX 1660 Ti ARMOR OC
+GeForce GTX 1660 Ti
+1500
+6
+GDDR6
+12000
+8
+130
+450
+22499
+*********************************
+18
+
+#19
+Gigabyte GeForce RTX 2060 OC R2.0
+GeForce RTX 2060
+1365
+6
+GDDR6
+14000
+8
+160
+500
+27899
+*********************************
+19
+
+#20
+MSI GeForce GTX 1660 VENTUS XS OC
+GeForce GTX 1660
+1530
+6
+GDDR5
+8002
+8
+130
+450
+17799
+*********************************
+20
+
+#21
+INNO3D GeForce GT 710 Silent LP
+GeForce GT 710
+954
+1
+GDDR3
+1600
+0
+19
+300
+2799
+*********************************
+21
+
+#22
+KFA2 GeForce GT 710 PASSIVE
+GeForce GT 710
+954
+1
+GDDR3
+1600
+0
+19
+300
+2850
+*********************************
+22
+
+#23
+MSI GeForce GT 710 Silent LP
+GeForce GT 710
+954
+1
+GDDR3
+1600
+0
+19
+300
+2999
+*********************************
+23
+
+#24
+GIGABYTE GeForce GT 710 LP
+GeForce GT 710
+954
+1
+GDDR5
+5010
+0
+19
+300
+2999
+*********************************
+24
+
+#25
+GIGABYTE GeForce GT 710
+GeForce GT 710
+954
+1
+GDDR5
+4200
+0
+19
+300
+2999
+*********************************
+25
+
+#26
+
+MSI AMD Radeon R7 240 LP
+730
+2
+GDDR3
+1080
+0
+35
+400
+3099
+*********************************
+26
+
+#27
+INNO3D GeForce GT 710 Silent LP
+GeForce GT 710
+954
+2
+GDDR3
+1600
+0
+19
+300
+3099
+*********************************
+27
+
+#28
+ASUS GeForce GT 710 Silent LP
+GeForce GT 710
+954
+1
+GDDR5
+5012
+0
+19
+300
+3199
+*********************************
+28
+
+#29
+Palit GeForce GT 710 Silent LP
+GeForce GT 710
+954
+2
+GDDR3
+1600
+0
+19
+300
+3250
+*********************************
+29
+
+#30
+KFA2 GeForce GT 710
+GeForce GT 710
+954
+2
+GDDR3
+1600
+0
+19
+300
+3299
+*********************************
+30

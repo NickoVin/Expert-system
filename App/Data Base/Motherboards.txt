@@ -1,0 +1,433 @@
+#0
+MSI B450M PRO-VDH MAX
+Micro-ATX
+AM4
+AMD B450
+DDR4
+DIMM
+4
+3466
+1
+6399
+*********************************
+0
+
+#1
+ASRock A320M-DVS R4.0
+Micro-ATX
+AM4
+AMD A320
+DDR4
+DIMM
+2
+3200
+1
+4099
+*********************************
+1
+
+#2
+GIGABYTE B450M S2H
+Micro-ATX
+AM4
+AMD B450
+DDR4
+DIMM
+2
+3200
+1
+5699
+*********************************
+2
+
+#3
+GIGABYTE B450M DS3H
+Micro-ATX
+AM4
+AMD B450
+DDR4
+DIMM
+4
+3200
+2
+5499
+*********************************
+3
+
+#4
+MSI B450 GAMING PLUS MAX
+Standard-ATX
+AM4
+AMD B450
+DDR4
+DIMM
+4
+4133
+2
+8799
+*********************************
+4
+
+#5
+MSI Z390-A PRO
+Standard-ATX
+LGA 1151-v2
+Intel Z390
+DDR4
+DIMM
+4
+4400
+2
+9899
+*********************************
+5
+
+#6
+GIGABYTE B450M S2H
+Micro-ATX
+AM4
+AMD B450
+DDR4
+DIMM
+2
+3200
+1
+5699
+*********************************
+6
+
+#7
+GIGABYTE H310M H 2.0
+Micro-ATX
+LGA 1151-v2
+Intel H310
+DDR4
+DIMM
+2
+2666
+1
+3899
+*********************************
+7
+
+#8
+ASUS PRIME H310M-R R2.0
+Micro-ATX
+LGA 1151-v2
+Intel H310
+DDR4
+DIMM
+2
+2666
+1
+3999
+*********************************
+8
+
+#9
+ASRock B450 Pro4
+Standard-ATX
+AM4
+AMD B450
+DDR4
+DIMM
+4
+3200
+2
+6999
+*********************************
+9
+
+#10
+ASRock B450M Pro4-F
+Micro-ATX
+AM4
+AMD B450
+DDR4
+DIMM
+4
+3200
+2
+5899
+*********************************
+10
+
+#11
+GIGABYTE GA-A320M-H
+Micro-ATX
+AM4
+AMD A320
+DDR4
+DIMM
+2
+3200
+1
+4099
+*********************************
+11
+
+#12
+MSI X570-A PRO
+Standard-ATX
+AM4
+AMD X570
+DDR4
+DIMM
+4
+4400
+2
+12899
+*********************************
+12
+
+#13
+MSI A320M-A PRO
+Micro-ATX
+AM4
+AMD A320
+DDR4
+DIMM
+2
+3200
+1
+3699
+*********************************
+13
+
+#14
+GIGABYTE B450 AORUS PRO
+Standard-ATX
+AM4
+AMD B450
+DDR4
+DIMM
+4
+3200
+3
+8899
+*********************************
+14
+
+#15
+GIGABYTE GA-AB350M-DS3H V2
+Micro-ATX
+AM4
+AMD B350
+DDR4
+DIMM
+4
+3200
+1
+4899
+*********************************
+15
+
+#16
+MSI Z390 MPG GAMING EDGE AC
+Standard-ATX
+LGA 1151-v2
+Intel Z390
+DDR4
+DIMM
+4
+4400
+3
+14999
+*********************************
+16
+
+#17
+ASRock B450M Pro4
+Micro-ATX
+AM4
+AMD B450
+DDR4
+DIMM
+4
+3200
+2
+6299
+*********************************
+17
+
+#18
+ASRock B450M-HDV R4.0
+Micro-ATX
+AM4
+AMD B450
+DDR4
+DIMM
+2
+3200
+1
+4799
+*********************************
+18
+
+#19
+MSI Z390 MPG GAMING PLUS
+Standard-ATX
+LGA 1151-v2
+Intel Z390
+DDR4
+DIMM
+4
+4400
+2
+11199
+*********************************
+19
+
+#20
+ASRock H310CM-DVS
+Micro-ATX
+LGA 1151-v2
+Intel H310
+DDR4
+DIMM
+2
+2666
+1
+3899
+*********************************
+20
+
+#21
+ASRock Fatal1ty B450 Gaming K4
+Standard-ATX
+AM4
+AMD B450
+DDR4
+DIMM
+4
+3200
+2
+7299
+*********************************
+21
+
+#22
+GIGABYTE B450 Gaming X
+Standard-ATX
+AM4
+AMD B450
+DDR4
+DIMM
+4
+2933
+2
+6999
+*********************************
+22
+
+#23
+ASRock A320M-DVS R4.0
+Micro-ATX
+AM4
+AMD A320
+DDR4
+DIMM
+2
+3200
+1
+3799
+*********************************
+23
+
+#24
+MSI H110M PRO-VH PLUS
+Micro-ATX
+LGA 1151
+Intel H110
+DDR4
+DIMM
+2
+2133
+1
+3699
+*********************************
+24
+
+#25
+MSI A320M-A PRO
+Micro-ATX
+AM4
+AMD A320
+DDR4
+DIMM
+2
+3200
+1
+3699
+*********************************
+25
+
+#26
+ASUS M5A78L-M LX3 (НЕДЕЙСТВИТЕЛЬНА)
+Micro-ATX
+AM3+
+AMD 760G
+DDR3
+DIMM
+2
+1866
+1
+999999999999
+*********************************
+26
+
+#27
+ASRock H110M-DVS R3.0
+Micro-ATX
+LGA 1151
+Intel H110
+DDR4
+DIMM
+2
+2133
+1
+3699
+*********************************
+27
+
+#28
+ASRock H110M-DGS R3.0
+Micro-ATX
+LGA 1151
+Intel H110
+DDR4
+DIMM
+2
+2133
+1
+3599
+*********************************
+28
+
+#29
+MSI A68HM-E33 V2
+Micro-ATX
+FM2+
+AMD A68H
+DDR3
+DIMM
+2
+2133
+1
+3399
+*********************************
+29
+
+#30
+ASUS A68HM-K
+Micro-ATX
+FM2+
+AMD A68H
+DDR3
+DIMM
+2
+2400
+1
+3399
+*********************************
+30
